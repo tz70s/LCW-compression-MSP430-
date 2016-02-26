@@ -1,4 +1,4 @@
-# LCW Compression on MSP430
+# LZW Compression on MSP430
 
 * Usage
 ```
@@ -7,4 +7,9 @@
 3. check out on chip buttons ( interrupt )
 4. run interface.py
 
+```
+* Testing Environment
+```
+Windows 8.1
+MSP430F5529
 ```
